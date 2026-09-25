@@ -1,7 +1,7 @@
 """Tkinter windows: live control panel, session picker, screenshot editor and
 post-session guide editor.
 
-Visual system: see theme.py / DESIGN-figma.md — monochrome frame, pill
+Visual system: see theme.py — monochrome frame, pill
 buttons, one pastel color block per window carrying recorder state.
 """
 import json

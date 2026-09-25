@@ -16,7 +16,7 @@ from .winutil import (foreground_is_own_process, foreground_process_name,
                       foreground_window_rect, foreground_window_title,
                       virtual_screen_origin)
 
-MARKER_RGB = (255, 61, 139)  # accent magenta (DESIGN-figma.md): the click point
+MARKER_RGB = (255, 61, 139)  # accent magenta (theme.ACCENT_MAGENTA): the click point
 
 
 def app_dir() -> Path:

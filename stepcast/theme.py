@@ -1,4 +1,4 @@
-"""Design system for the Tk UI, adapted from DESIGN-figma.md.
+"""Design system for the Tk UI (Figma-inspired: monochrome + pastel blocks).
 
 Monochrome frame (white canvas, black ink, hairlines) + one pastel color
 block per window as the state surface. Every text button is a pill, every

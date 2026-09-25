@@ -167,7 +167,7 @@ def build_markdown(session_dir: Path) -> str:
     return _timeline_to_md(data, build_timeline(data))
 
 
-# Visual system: DESIGN-figma.md. Monochrome editorial page, mono eyebrows,
+# Visual system: same tokens as theme.py. Monochrome editorial page, mono eyebrows,
 # one lime color block to close the guide. No shadows, no gradients.
 _HTML_CSS = """
 :root{--ink:#000;--canvas:#fff;--hairline:#e6e6e6;--hairline-soft:#f1f1f1;

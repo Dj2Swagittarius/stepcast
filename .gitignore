@@ -15,3 +15,25 @@ __pycache__/
 # Local tooling / scratch
 .claude/
 error.txt.txt
+
+# Local design references / AI tool config
+DESIGN-figma.md
+.impeccable.md
+
+# Release artifacts, logs
+*.zip
+*.log
+
+# Environments & secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store

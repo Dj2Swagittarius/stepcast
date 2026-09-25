@@ -121,7 +121,7 @@ stepcast/winutil.py      active-window detection (ctypes, no pywin32)
 stepcast/audio.py        mic capture -> narration.wav
 stepcast/transcribe.py   narration.wav -> timestamped text (faster-whisper)
 stepcast/ui.py           control window (Start/Stop + live edit) + review editor (Tkinter)
-stepcast/theme.py        design tokens + pill/circle buttons, color blocks (see DESIGN-figma.md)
+stepcast/theme.py        design tokens + pill/circle buttons, color blocks
 ```
 
 ## Re-edit a finished session
