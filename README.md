@@ -134,3 +134,7 @@ python -c "import tkinter as tk; from stepcast.ui import Editor; r=tk.Tk(); r.wi
 ```
 
 Edits save back into `session.json` (as a `timeline`) and re-export `GUIDE.md`.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
