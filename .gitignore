@@ -1,0 +1,17 @@
+# Recordings: screenshots, typed text (may include passwords), voice audio
+sessions/
+
+# Whisper model (downloaded on first run, ~145 MB)
+models/
+
+# Build output
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local tooling / scratch
+.claude/
+error.txt.txt
